@@ -40,3 +40,7 @@ $("#prod").click(function(){
 	}, function(){
 		$('.caption',this).slideToggle('slow');
     });
+//pop up to user
+$("#submit").click(function(){
+    alert("Message recieved!! Thanks for reaching out!!")
+})
