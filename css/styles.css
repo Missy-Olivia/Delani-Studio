@@ -78,3 +78,29 @@
     height: 50vh;
    padding-bottom: 20px;
 }
+textarea{
+    width: 100%; 
+    border: 1px solid #ccc; 
+    background-color: transparent;
+    color: white;
+  }
+input[type=text]{
+    color:white;
+    background-color: transparent;
+    border: 1px solid #ccc; 
+}
+#email{
+    float: left;
+}
+#name{
+    float: right;
+}
+::placeholder{
+color:white
+}
+#contact{
+    color: white;
+}
+button{
+    background-color: transparent;
+}
