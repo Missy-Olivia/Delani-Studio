@@ -5,4 +5,11 @@
     height: 80vh;
     width: 100%;
     text-align: center;
+    };
+    .intro{
+        color: white;
+      padding: 30px;
+    }
+    .about{
+        text-align: center;
     }
