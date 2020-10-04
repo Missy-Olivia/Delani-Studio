@@ -34,3 +34,9 @@ $("#prod").click(function(){
   $("#three").show()
  });
 });
+//portfollio hover...
+    $('.column').hover(function(){
+		$('.caption',this).slideToggle('slow');
+	}, function(){
+		$('.caption',this).slideToggle('slow');
+    });
