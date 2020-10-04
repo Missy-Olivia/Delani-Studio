@@ -21,3 +21,29 @@
         height: 50vh;
         padding: 10px;
     }
+
+.service{
+    color: white;
+    text-align: center;
+    padding-top: 90px;
+}#design{
+    display: none;
+    text-align: center;
+}
+#dev{
+    display: none;
+    text-align: center;
+
+}
+#prod{
+    display: none;
+    text-align: center;
+
+}
+#whatwedo{
+    display: flex;
+    justify-content: space-between;
+}
+#what{
+    text-align: center;
+}
