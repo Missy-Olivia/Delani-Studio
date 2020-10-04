@@ -6,7 +6,7 @@ This project is about making a portfolio page for a photography studio.It's mean
 ## Technologies Used
 This page was built using HTML, CSS, JQuery and bootstrap.
 ## Link
-
+https://missy-olivia.github.io/Delani-Studio/index.html
 ### License
 MIT
 Copyright (c) 2020
