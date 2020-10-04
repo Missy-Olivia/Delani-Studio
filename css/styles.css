@@ -47,3 +47,21 @@
 #what{
     text-align: center;
 }
+#portfolio>h3{
+    text-align: center;
+}
+#portfolio{
+    text-align: center;
+    
+}
+button{
+    background-color: transparent;
+}
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+  position: relative;
+  color: #333;
+  cursor: pointer;
+}
